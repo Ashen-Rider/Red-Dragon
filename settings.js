@@ -41,7 +41,7 @@ global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '@riderbot ' //Bot Pacage Name
 global.author = 'Ashen Rider❯' //Author Name
-global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['#','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
@@ -50,7 +50,7 @@ global.ig = 'https://www.youtube.com/channel/UC2PmyEBQcSb0yJs4JUi4zqA' //Github 
 global.footer = '@𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
-    success: 'Done ✅',
+    success: 'Made By @𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1🤖',
     admin: 'ඒව ඇඩ්ම්න්ලට විතරයි!😉',
     botAdmin: 'ඇඩ්මින් දාහං නැත්තම් බොට් වැඩ නෑ😥',
     owner: 'Only Owner can use this!😉',
