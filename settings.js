@@ -20,12 +20,16 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `I'm LIVING🌚💗
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+@𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1 🤖 𝖔𝖜𝖓𝖊𝖉 𝖇𝖞 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰
+
+💗 A̳s̳h̳e̳n̳ ̳R̳i̳d̳e̳r̳ 🇱🇰
+` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94784749430'] //Owner number in aive msg
+global.premium = ['+94784749430'] //Owner Number info
+global.ownernomer = '+94784749430' //Owner Number <<<
 
 global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
@@ -35,27 +39,27 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '@riderbot ' //Bot Pacage Name
+global.author = 'Ashen Rider❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
-global.footer = '©_Kumuthu.' // DO NOT CHANGE!
+global.ig = 'https://www.youtube.com/channel/UC2PmyEBQcSb0yJs4JUi4zqA' //Github Account!
+global.footer = '@𝖗𝖎𝖉𝖊𝖗𝖇𝖔𝖙1.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
+    admin: 'ඒව ඇඩ්ම්න්ලට විතරයි!😉',
+    botAdmin: 'ඇඩ්මින් දාහං නැත්තම් බොට් වැඩ නෑ😥',
     owner: 'Only Owner can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉plz wait',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'අදට බොට්ගෙ වැඩ ඉවරය්‍යි...හෙට එන්න',
 }
 // DO NOT CHANGE \\
     global.limitawal = {
@@ -71,7 +75,7 @@ global.mess = { // Error Mesages
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./DragonMedia/image/red-_-dragon-kumuthu.jpg')
+global.thumb = fs.readFileSync('.https://ibb.co/QFggzHj')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
